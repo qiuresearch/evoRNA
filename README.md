@@ -25,6 +25,10 @@ Use large language model to simulate RNA evolution
 8. Nucleotide Transformer,
    [github, Oct 2023](https://github.com/instadeepai/nucleotide-transformer),
    [biorxiv, Sept 2023](https://www.biorxiv.org/content/10.1101/2023.01.11.523679v3)
+9. RiNALMo, a multi-purpose RNA language moel
+    [github, Apr 2024](https://github.com/lbcb-sci/RiNALMo)
+10. RNAErnie, a multi-purpose RNA language model with motif-awareness
+    [Zenodo, Mar 2024](https://zenodo.org/records/10847621)
 
 ## Ideas
 1. In addition to the fitness score from large language models, fitness/evolutionary scores are adjusted for the secondary (and even tertiary) structures/motifs of RNA sequences. This would involve a study of RNA structural evolution from primordial ages.
