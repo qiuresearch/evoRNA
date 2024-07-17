@@ -29,6 +29,7 @@ Use large language model to simulate RNA evolution
     [github, Apr 2024](https://github.com/lbcb-sci/RiNALMo)
 10. RNAErnie, a multi-purpose RNA language model with motif-awareness
     [Zenodo, Mar 2024](https://zenodo.org/records/10847621)
+    [github, Jan 2024[(https://github.com/CatIIIIIIII/RNAErnie/tree/v1.0)
 
 ## Ideas
 1. In addition to the fitness score from large language models, fitness/evolutionary scores are adjusted for the secondary (and even tertiary) structures/motifs of RNA sequences. This would involve a study of RNA structural evolution from primordial ages.
